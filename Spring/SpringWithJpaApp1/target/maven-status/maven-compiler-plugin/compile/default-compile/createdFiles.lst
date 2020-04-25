@@ -1,0 +1,7 @@
+com\capg\springjpa\service\TraineeService.class
+com\capg\springjpa\entities\Login.class
+com\capg\springjpa\entities\Trainee.class
+com\capg\springjpa\repos\TraineeRepository.class
+com\capg\springjpa\repos\TraineeRepositoryImpl.class
+com\capg\springjpa\controller\TraineeController.class
+com\capg\springjpa\service\TraineeServiceImpl.class
